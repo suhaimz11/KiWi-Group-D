@@ -30,3 +30,7 @@ Only approved documentation should be ingested. Personal or sensitive data must 
 - Dockerized prototype and source code.
 - Evaluation of retrieval relevance, answer accuracy, citation correctness, and unsupported answers using representative anonymized questions.
 - Technical paper, project poster, and live demonstration.
+
+## Project Details
+
+Read the [project details](output/pdf/KIWi_Project_Details.pdf) for the overview, RAG flowchart, proposed technology stack, milestones, and deliverables.
